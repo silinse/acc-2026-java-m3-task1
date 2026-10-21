@@ -1,0 +1,150 @@
+2026-10-21 12:06:46 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_01 TURN_ON' received for device 'LIGHT_01'
+2026-10-21 12:06:46 INFO  c.b.s.controller.HomeController - Command 'LIGHT_01 TURN_ON' executed successfully for device 'LIGHT_01'
+2026-10-21 12:06:46 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_02 TURN_ON' received for device 'LIGHT_02'
+2026-10-21 12:06:46 INFO  c.b.s.controller.HomeController - Command 'LIGHT_02 TURN_ON' executed successfully for device 'LIGHT_02'
+2026-10-21 12:06:46 DEBUG c.b.s.controller.HomeController - Command 'THERMO_01 SET_TEMP 22.5' received for device 'THERMO_01'
+2026-10-21 12:06:46 INFO  c.b.s.controller.HomeController - Command 'THERMO_01 SET_TEMP 22.5' executed successfully for device 'THERMO_01'
+2026-10-21 12:06:46 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_01 SET_BRIGHTNESS 80' received for device 'LIGHT_01'
+2026-10-21 12:06:46 INFO  c.b.s.controller.HomeController - Command 'LIGHT_01 SET_BRIGHTNESS 80' executed successfully for device 'LIGHT_01'
+2026-10-21 12:06:46 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' received for device 'LIGHT_03'
+2026-10-21 12:06:46 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:06:46 DEBUG c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' received for device 'LOCK_02'
+2026-10-21 12:06:46 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:06:46 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:06:46 DEBUG c.b.s.controller.HomeController - Command 'SENSOR_99 TURN_ON' received for device 'SENSOR_99'
+2026-10-21 12:07:25 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:07:25 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:07:25 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:07:38 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:07:38 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:07:38 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:07:42 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:07:42 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:07:42 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:18:50 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:18:50 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:18:50 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:19:13 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:19:13 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:19:13 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:19:26 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:19:26 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:19:26 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:19:33 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:19:33 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:19:33 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:22:11 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:22:11 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:22:11 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:22:21 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:22:21 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:22:21 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:25:13 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:25:13 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:25:13 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:25:40 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:25:40 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:25:40 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:26:59 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:26:59 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:26:59 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:27:10 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:27:10 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:27:10 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:27:10 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:27:14 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:27:14 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:27:14 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:27:14 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:27:49 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:27:49 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:27:49 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:27:49 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:32:40 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:32:40 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:32:40 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:32:40 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:34:34 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:34:34 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:34:34 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:34:34 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:35:23 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:35:23 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:35:23 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:35:23 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:37:37 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:37:37 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:37:37 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:37:37 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:39:32 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:39:32 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:39:32 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:39:32 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:40:32 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:40:32 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:40:32 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:40:32 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:45:25 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:45:25 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:45:25 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:45:25 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:49:21 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:49:21 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:49:21 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:49:21 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:49:44 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:49:44 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:49:44 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:49:44 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 12:50:51 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 12:50:51 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 12:50:51 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 12:50:51 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 13:01:56 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_01 TURN_ON' received for device 'LIGHT_01'
+2026-10-21 13:01:56 INFO  c.b.s.controller.HomeController - Command 'LIGHT_01 TURN_ON' executed successfully for device 'LIGHT_01'
+2026-10-21 13:01:56 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_02 TURN_ON' received for device 'LIGHT_02'
+2026-10-21 13:01:56 INFO  c.b.s.controller.HomeController - Command 'LIGHT_02 TURN_ON' executed successfully for device 'LIGHT_02'
+2026-10-21 13:01:56 DEBUG c.b.s.controller.HomeController - Command 'THERMO_01 SET_TEMP 22.5' received for device 'THERMO_01'
+2026-10-21 13:01:56 INFO  c.b.s.controller.HomeController - Command 'THERMO_01 SET_TEMP 22.5' executed successfully for device 'THERMO_01'
+2026-10-21 13:01:56 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_01 SET_BRIGHTNESS 80' received for device 'LIGHT_01'
+2026-10-21 13:01:56 INFO  c.b.s.controller.HomeController - Command 'LIGHT_01 SET_BRIGHTNESS 80' executed successfully for device 'LIGHT_01'
+2026-10-21 13:01:56 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' received for device 'LIGHT_03'
+2026-10-21 13:01:56 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 13:01:56 ERROR c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' failed for device 'LIGHT_03'
+2026-10-21 13:01:56 DEBUG c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' received for device 'LOCK_02'
+2026-10-21 13:01:56 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 13:01:56 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 13:01:56 DEBUG c.b.s.controller.HomeController - Command 'SENSOR_99 TURN_ON' received for device 'SENSOR_99'
+2026-10-21 13:01:56 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 13:03:31 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_01 TURN_ON' received for device 'LIGHT_01'
+2026-10-21 13:03:31 INFO  c.b.s.controller.HomeController - Command 'LIGHT_01 TURN_ON' executed successfully for device 'LIGHT_01'
+2026-10-21 13:03:31 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_02 TURN_ON' received for device 'LIGHT_02'
+2026-10-21 13:03:31 INFO  c.b.s.controller.HomeController - Command 'LIGHT_02 TURN_ON' executed successfully for device 'LIGHT_02'
+2026-10-21 13:03:31 DEBUG c.b.s.controller.HomeController - Command 'THERMO_01 SET_TEMP 22.5' received for device 'THERMO_01'
+2026-10-21 13:03:31 INFO  c.b.s.controller.HomeController - Command 'THERMO_01 SET_TEMP 22.5' executed successfully for device 'THERMO_01'
+2026-10-21 13:03:31 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_01 SET_BRIGHTNESS 80' received for device 'LIGHT_01'
+2026-10-21 13:03:31 INFO  c.b.s.controller.HomeController - Command 'LIGHT_01 SET_BRIGHTNESS 80' executed successfully for device 'LIGHT_01'
+2026-10-21 13:03:31 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' received for device 'LIGHT_03'
+2026-10-21 13:03:31 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 13:03:31 ERROR c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' failed for device 'LIGHT_03'
+2026-10-21 13:03:31 DEBUG c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' received for device 'LOCK_02'
+2026-10-21 13:03:31 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 13:03:31 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 13:03:31 DEBUG c.b.s.controller.HomeController - Command 'SENSOR_99 TURN_ON' received for device 'SENSOR_99'
+2026-10-21 13:03:31 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99
+2026-10-21 13:04:19 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_01 TURN_ON' received for device 'LIGHT_01'
+2026-10-21 13:04:19 INFO  c.b.s.controller.HomeController - Command 'LIGHT_01 TURN_ON' executed successfully for device 'LIGHT_01'
+2026-10-21 13:04:19 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_02 TURN_ON' received for device 'LIGHT_02'
+2026-10-21 13:04:19 INFO  c.b.s.controller.HomeController - Command 'LIGHT_02 TURN_ON' executed successfully for device 'LIGHT_02'
+2026-10-21 13:04:19 DEBUG c.b.s.controller.HomeController - Command 'THERMO_01 SET_TEMP 22.5' received for device 'THERMO_01'
+2026-10-21 13:04:19 INFO  c.b.s.controller.HomeController - Command 'THERMO_01 SET_TEMP 22.5' executed successfully for device 'THERMO_01'
+2026-10-21 13:04:19 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_01 SET_BRIGHTNESS 80' received for device 'LIGHT_01'
+2026-10-21 13:04:19 INFO  c.b.s.controller.HomeController - Command 'LIGHT_01 SET_BRIGHTNESS 80' executed successfully for device 'LIGHT_01'
+2026-10-21 13:04:19 DEBUG c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' received for device 'LIGHT_03'
+2026-10-21 13:04:19 WARN  c.b.s.controller.HomeController - Device 'LIGHT_03' is offline — command skipped.
+2026-10-21 13:04:19 ERROR c.b.s.controller.HomeController - Command 'LIGHT_03 TURN_ON' failed for device 'LIGHT_03'
+2026-10-21 13:04:19 DEBUG c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' received for device 'LOCK_02'
+2026-10-21 13:04:19 ERROR c.b.smarthome.device.SmartLock - SECURITY ALERT: Incorrect PIN entered for Back Door Lock.
+2026-10-21 13:04:19 ERROR c.b.s.controller.HomeController - Command 'LOCK_02 UNLOCK' failed for device 'LOCK_02'
+2026-10-21 13:04:19 DEBUG c.b.s.controller.HomeController - Command 'SENSOR_99 TURN_ON' received for device 'SENSOR_99'
+2026-10-21 13:04:19 WARN  c.b.s.controller.HomeController - Device not found: SENSOR_99

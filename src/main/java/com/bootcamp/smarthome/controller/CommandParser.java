@@ -36,6 +36,6 @@ public class CommandParser {
      */
     public static String extractCommand(String fullCommand) {
         String[] parts = fullCommand.split(" ");
-        return parts[1];
+        return fullCommand.substring(parts[0].length()).trim();
     }
 }
